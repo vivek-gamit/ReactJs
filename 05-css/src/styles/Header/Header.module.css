@@ -1,0 +1,16 @@
+.header{
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(69, 64, 64);
+}
+.btn{
+    width: 60px;
+    background: red;
+    border-radius: 5px;
+    color: #fff;
+    padding: 3px;
+    margin-right: 10px;
+}
