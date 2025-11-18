@@ -4,6 +4,23 @@
   box-sizing: border-box;
 }
 html body{
-  width: 100vh;
-  height: 100%;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  background: rgb(55, 54, 54);
+  padding: 10px 20px;
+  margin: 10px 25px;
+  border: none;
+  border-radius: 3px;
+}
+h1{
+  background:rgb(55, 54, 54) ;
+  width: fit-content;
+  margin: 10px 25px;
+  padding: 25px 113px;
+  border-radius: 5px;
 }
